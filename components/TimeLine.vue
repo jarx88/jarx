@@ -90,7 +90,7 @@
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
           >2008.10 – 2012.04
         </time>
-        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+        <p class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500">
           Inżynier
         </p>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
