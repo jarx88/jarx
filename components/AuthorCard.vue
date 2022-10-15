@@ -52,7 +52,7 @@
         :src="siteMetadata.blog_image"
         loading="lazy"
         alt="blog"
-        class="md:h-60 md:w-100 h-40 w-100 rounded-full blog-image"
+        class="blog-image"
           />
         </a>
       </div>
