@@ -21,3 +21,7 @@
 </p>
   </div>
 </template>
+<script>
+import VueTypedJs from "~/plugins/vue-typed-js";
+</script>
+<style></style>
