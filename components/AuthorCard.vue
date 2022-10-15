@@ -53,7 +53,7 @@ import Github from "../assets/icon/github_new.svg?inline";
 import Phone from "../assets/icon/phone.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
-  components: { Mail, Glob, Github },
+  components: { Mail, Glob, Github,Phone },
   data: () => {
     return {
       siteMetadata: siteMetaInfo,
