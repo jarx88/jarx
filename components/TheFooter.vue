@@ -54,7 +54,7 @@
           target="_blank"
           rel="noopener noreferrer"
           href="https://github.com/mdrathik/nuxtjs-tailwind-blog"
-        >Md Solaiman ❤️</a>
+        >Md Rathik❤️</a>
       </div>
       <!-- <BuyMeACoffee></BuyMeACoffee> -->
     </div>
