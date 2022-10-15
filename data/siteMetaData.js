@@ -23,6 +23,7 @@ const siteMetadata = {
   stackoverflow: "#",
   youtube: "#",
   linkedin: "#",
+  phone: "532-541-533",
 };
 
 export default siteMetadata;

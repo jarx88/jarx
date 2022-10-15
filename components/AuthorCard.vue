@@ -34,9 +34,13 @@
         <Glob />
         <p>{{ siteMetadata.location }}</p>
       </div>
-      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+      <!-- <div class="my-2 text-gray-600 flex dark:text-blue-200">
         <Github />
         <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
+      </div> -->
+      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+        <Phone />
+        {{ siteMetadata.phone }}
       </div>
     </div>
   </div>
@@ -46,6 +50,7 @@
 import Mail from "../assets/icon/mail.svg?inline";
 import Glob from "../assets/icon/glob.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
+import Phone from "../assets/icon/phone.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
   components: { Mail, Glob, Github },
