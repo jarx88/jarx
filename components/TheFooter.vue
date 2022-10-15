@@ -30,7 +30,7 @@
           rel="noopener noreferrer"
           :href="siteMetadata.linkedin"
           ><span class="sr-only">linkedin</span>
-          <img class="w-8 h-8" src="~assets/icon/linkedin.svg" /></a>
+          <img class="w-8 h-8" src="~assets/icon/linkeding.svg" /></a>
         <!-- <a
           class="text-sm text-gray-500 transition hover:text-gray-600"
           target="_blank"
