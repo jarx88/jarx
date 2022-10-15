@@ -41,13 +41,13 @@
         >
       </div>
       <div class="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
-        <div>Template </div>
+        <div>Template: </div>
         <Github />
         <a
           target="_blank"
           rel="noopener noreferrer"
           href="https://github.com/mdrathik/nuxtjs-tailwind-blog"
-        >Md Solaiman</a>
+        >Md Solaiman ❤️</a>
       </div>
       <!-- <BuyMeACoffee></BuyMeACoffee> -->
     </div>
