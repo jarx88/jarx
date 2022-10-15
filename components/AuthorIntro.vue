@@ -14,7 +14,7 @@
     Jestem osobą bardzo spokojną i opanowaną, dlatego wspaniale się dogaduję
     z innymi. Współpraca ze mną zawsze jest na najwyższym poziomie.
     </p>
-    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200 text-justify">Kocham 
+    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200">Kocham 
     <vue-typed-js :strings="['programować', 'administrować']">
   <h1 class="typing"></h1>
 </vue-typed-js>
