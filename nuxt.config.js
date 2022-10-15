@@ -4,9 +4,9 @@ export default {
 
   // Global page headers: https://go.nuxtjs.dev/config-head
   head: {
-    title: "nuxt-blog",
+    title: "jarx",
     htmlAttrs: {
-      lang: "en",
+      lang: "pl",
     },
     meta: [
       { charset: "utf-8" },
