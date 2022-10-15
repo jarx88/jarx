@@ -22,6 +22,8 @@
         >
           {{ siteMetadata.email }}
         </a>
+        <div class="md:text-lg text-gray-600 dark:text-blue-100">
+          {{ siteMetadata.phone }}
       </div>
     </div>
 
