@@ -10,7 +10,7 @@ const siteMetadata = {
   description:
     "A tech enthusiast & self taught learner. Love to talk the way of tech.",
   language: "pl-pl",
-  theme: "system", // system, dark or light
+  theme: "dark", // system, dark or light
   siteUrl: "#",
   siteRepo: "#",
   siteLogo: "../assets/photo.png",
