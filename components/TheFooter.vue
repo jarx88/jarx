@@ -24,6 +24,14 @@
           ><span class="sr-only">facebook</span>
           <img class="w-8 h-8" src="~assets/icon/facebook.svg"
         /></a>
+        <a
+          class="text-sm text-gray-500 transition hover:text-gray-600"
+          target="_blank"
+          rel="noopener noreferrer"
+          :href="siteMetadata.linkedin"
+          ><span class="sr-only">linkedin</span>
+          <img class="w-8 h-8" src="~assets/icon/linkedin.svg"
+        /></a>
         <!-- <a
           class="text-sm text-gray-500 transition hover:text-gray-600"
           target="_blank"

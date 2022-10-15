@@ -23,7 +23,7 @@ const siteMetadata = {
   stackoverflow: "#",
   youtube: "#",
   facebook: "https://www.facebook.com/jarekhart",
-  linkedin: "#",
+  linkedin: "https://www.linkedin.com/in/jaros%C5%82aw-hartwich-572653b8",
   phone: " 532-541-533",
 };
 
