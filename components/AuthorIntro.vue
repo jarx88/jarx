@@ -22,6 +22,7 @@
   </div>
 </template>
 <script>
-import VueTypedJs from "~/plugins/vue-typed-js";
+// import VueTypedJs from "~/plugins/vue-typed-js";
+
 </script>
 <style></style>
