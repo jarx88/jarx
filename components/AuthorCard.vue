@@ -22,9 +22,12 @@
         >
           {{ siteMetadata.email }}
         </a>
-        <div class="md:text-lg text-gray-600 dark:text-blue-100">
+        <a
+          href="tel:532541533"
+          class="text-gray-600 md:hidden mt-1 dark:text-blue-100"
+        >
           {{ siteMetadata.phone }}
-      </div>
+        </a>
     </div>
 
     <div class="mx-7 hidden md:block">
