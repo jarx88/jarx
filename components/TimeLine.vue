@@ -13,19 +13,24 @@
         <h3
           class="flex items-center mb-1 text-lg font-semibold text-gray-900 dark:text-white"
         >
-          Software Engineer at FANG
+        TL-Systems
           <span
             class="bg-blue-100 text-blue-800 text-sm font-medium mr-2 px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ml-3"
-            >Currently</span
+            >Obecnie</span
           >
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >2018-Currently</time
+          >04.2019 - Do dzisiaj</time
         >
         <p class="mb-4 text-base font-normal text-gray-500 dark:text-gray-400">
-          Get access to over 20+ pages including a dashboard layout, charts,
-          kanban board, calendar, and pre-order E-commerce & Marketing pages.
+          Wesparcie zdalne ponad 500 komputerów.
+          Administrowanie ponad 10 serwerów opartych na linuxie w serwerowni Oracle.
+          Dbanie o bezpieczeństwo sklepu online z obrotem na poziomie dwóch milionów miesięcznie.
+          Administrator Active Directory.
+          Zarządzanie dużą bazą PostgreSQL.
+          Opracowanie programów do automatyzacji i wsparcia firmy.
+          Dbanie o bezpieczeństwo sieci i wdrożenie rozwiązania VPN do pracy zdalnej.
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -38,15 +43,14 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Freelancer
+          PlusGSM
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >Released on December 7th, 2021</time
+          >10.2013 - 07.2019</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          All of the pages and components are first designed in Figma and we
-          keep a parity between the two versions even as we update the project.
+          Powyżej 100 umów zawartych w miesiącu przez 6 lat. Grono zadowolonych klientów.
         </p>
       </li>
       <li class="mb-10 ml-6">
@@ -59,16 +63,37 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          2013 - Dhaka University
+          Kurier Słupecki
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >2013 - 2018
+          >05.2013 - 09.2013
         </time>
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          Studied "BSC in Computer Science and Engineering" in Dhaka University.
+          Usprawnienie i modernizacja strony Slupca.pl
+          Opracowanie i wdrożenie strony ruszczak.com.pl wraz z grafikami.
         </p>
       </li>
+      <li class="mb-10 ml-6">
+        <span
+          class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900"
+        >
+          <img
+            class="w-3 h-3 text-blue-600 dark:text-blue-400"
+            src="~assets/icon/academy.svg"
+          />
+        </span>
+        <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
+          Studia - Uniwersytet Zielonogórski
+        </h3>
+        <time
+          class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
+          >2008.10 – 2012.04
+        </time>
+        <p class="text-base font-normal text-gray-500 dark:text-gray-400">
+          Informatyka – Przemysłowe Systemy Informatyczne - inżynier
+        </p>
+      </li>      
       <li class="mb-10 ml-6">
         <span
           class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-white dark:ring-gray-900 dark:bg-blue-900"
@@ -79,14 +104,14 @@
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
-          Born in 1996, July 27
+          Urodzony in 1988, Lipiec 4
         </h3>
         <time
           class="block mb-2 text-sm font-normal leading-none text-gray-400 dark:text-gray-500"
-          >Dhaka Bangladesh</time
+          >Słupca</time
         >
         <p class="text-base font-normal text-gray-500 dark:text-gray-400">
-          I couldn't remember any productive work in that time. But
+          Nie pamiętam żadnych osiągnięc z tego czasu 😁
         </p>
       </li>
     </ol>
