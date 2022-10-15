@@ -58,7 +58,7 @@ import Mail from "../assets/icon/mail.svg?inline";
 import Glob from "../assets/icon/glob.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
 import Phone from "../assets/icon/phone.svg?inline";
-import blog from "../assets/icon/logo-black.svg";
+import blog from "../assets/blog.png";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
   components: { Mail, Glob, Github,Phone,blog },
