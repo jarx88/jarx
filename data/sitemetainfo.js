@@ -3,7 +3,7 @@ const siteMetaInfo = {
   author: "Jarosław Hartwich",
   author_image: "/photo.png",
   position: "specjalista ds. Informatyki",
-  location: "Słupca, Kowalewo-Sołectwo",
+  location: " Słupca, Kowalewo-Sołectwo",
   headerTitle: "Md Rathik",
   slogan: "Po prostu robię to co kocham. 😍",
   description:
@@ -15,7 +15,7 @@ const siteMetaInfo = {
   siteLogo: "../assets/photo.png",
   image: "~/assets/photo.png",
   socialBanner: "/static/images/twitter-card.png",
-  email: "jarekhart@gmail.com",
+  email: " jarekhart@gmail.com",
   github: "https://github.com/jarx88",
   githubUser: "jarx88",
   twitter: "#",
@@ -23,7 +23,7 @@ const siteMetaInfo = {
   stackoverflow: "#",
   youtube: "#",
   linkedin: "#",
-  phone: "532-541-533",
+  phone: " 532-541-533",
 };
 
 export default siteMetaInfo;
