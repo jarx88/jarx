@@ -20,10 +20,10 @@
           >
         </li>
         <li>
-          <NuxtLink
-            to="https://blog.jarx.pl"
+          <a
+            href="https://blog.jarx.pl"
             class="block md:inline-block px-4 py-3 no-underline text-grey-darkest hover:text-grey-darker font-bold text-lg md:text-2xl"
-            >Blog</NuxtLink
+            >Blog</a
           >
         </li>
       </ul>
