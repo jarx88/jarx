@@ -13,11 +13,10 @@
 
     Jestem osobą bardzo spokojną i opanowaną, dlatego wspaniale się dogaduję
     z innymi. Współpraca ze mną zawsze jest na najwyższym poziomie.
+     <vue-typed-js :strings="['programować⌨️', 'komputery💻','Windows🪟','Linux🐧'] " :loop="true" :fadeOutDelay="1000" :typeSpeed="100">
+      <h1>Kocham <span class="typing"></span></h1>
+    </vue-typed-js>
     </p>
-    <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200"> <vue-typed-js :strings="['programować⌨️', 'komputery💻','Windows🪟','Linux🐧'] " :loop="true" :fadeOutDelay="1000" :typeSpeed="100">
-  <h1>Kocham <span class="typing"></span></h1>
-</vue-typed-js>
-</p>
   </div>
 </template>
 <script>
