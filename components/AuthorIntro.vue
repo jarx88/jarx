@@ -19,3 +19,12 @@
     </p>
   </div>
 </template>
+<script>
+import VueTypedJs from "~/plugins/vue-typed-js";
+export default {
+  mounted() {
+    VueTypedJs.initTypedJS();
+  },  
+};
+</script>
+<style></style>
