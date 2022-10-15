@@ -2,6 +2,7 @@ const siteMetadata = {
   title: "Jarosław Hartwich | specjalista ds. Informatyki",
   author: "Jarosław Hartwich",
   author_image: "/photo.png",
+  author_image: "/blog.png",
   position: "specjalista ds. Informatyki",
   location: " Słupca, Kowalewo-Sołectwo",
   headerTitle: "Md Rathik",

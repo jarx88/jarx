@@ -47,7 +47,14 @@
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200 blog">
         <p>Blog:</p><br />
-        <a href="https://blog.jarx.pl"><blog /></a>
+        <a href="https://blog.jarx.pl">
+          <nuxt-img
+        :src="siteMetadata.blog_image"
+        loading="lazy"
+        alt="blog"
+        class="md:h-60 md:w-200 h-40 w-200 rounded-full"
+          />
+        </a>
       </div>
     </div>
   </div>
