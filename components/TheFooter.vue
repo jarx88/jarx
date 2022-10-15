@@ -46,7 +46,7 @@
           target="_blank"
           rel="noopener noreferrer"
           href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
-        >tailwind</a>
+        >Md Solaiman</a>
       </div>
       <!-- <BuyMeACoffee></BuyMeACoffee> -->
     </div>
