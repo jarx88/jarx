@@ -47,7 +47,7 @@
       </div>
       <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
         <p>Blog:</p>
-        <a href="https://blog.jarx.pl"><img href="../assets/icon/logo-black.svg" width="200" /></a>
+        <a href="https://blog.jarx.pl"><blog /></a>
       </div>
     </div>
   </div>
@@ -58,9 +58,10 @@ import Mail from "../assets/icon/mail.svg?inline";
 import Glob from "../assets/icon/glob.svg?inline";
 import Github from "../assets/icon/github_new.svg?inline";
 import Phone from "../assets/icon/phone.svg?inline";
+import blog from "../assets/icon/phone.svg?inline";
 import siteMetaInfo from "@/data/sitemetainfo";
 export default {
-  components: { Mail, Glob, Github,Phone },
+  components: { Mail, Glob, Github,Phone,blog },
   data: () => {
     return {
       siteMetadata: siteMetaInfo,
