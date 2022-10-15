@@ -15,7 +15,7 @@
     z innymi. Współpraca ze mną zawsze jest na najwyższym poziomie.
     </p>
     <p class="mt-8 mb-4 dark:bg-gray-800 dark:text-blue-200"> <vue-typed-js :strings="['programować', 'administrować'] " :loop="true" >
-  <h1 class="typing">Kocham </h1>
+  <h1>Kocham <span class="typing"></span></h1>
 </vue-typed-js>
 </p>
   </div>
