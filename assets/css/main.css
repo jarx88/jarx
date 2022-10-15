@@ -5,3 +5,8 @@
 .nuxt-link-exact-active {
   @apply text-blue-500;
 }
+
+.phone svg {
+  height: auto;
+  width: 20px;
+}

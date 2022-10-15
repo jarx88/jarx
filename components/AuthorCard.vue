@@ -38,7 +38,7 @@
         <Github />
         <a :href="siteMetadata.github"> {{ siteMetadata.githubUser }}</a>
       </div> -->
-      <div class="my-2 text-gray-600 flex dark:text-blue-200">
+      <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
         <Phone />
         {{ siteMetadata.phone }}
       </div>
