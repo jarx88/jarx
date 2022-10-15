@@ -42,10 +42,11 @@
       </div>
       <div class="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
         <div>Template </div>
+        <Github />
         <a
           target="_blank"
           rel="noopener noreferrer"
-          href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
+          href="https://github.com/mdrathik/nuxtjs-tailwind-blog"
         >Md Solaiman</a>
       </div>
       <!-- <BuyMeACoffee></BuyMeACoffee> -->
@@ -55,8 +56,10 @@
 
 <script>
 import siteMetaInfo from "@/data/sitemetainfo";
+import Github from "../assets/icon/github_new.svg?inline";
 // import BuyMeACoffee from "./BuyMeACoffee.vue";
 export default {
+  components: {Github},
   data() {
     return {
       siteMetadata: siteMetaInfo,
