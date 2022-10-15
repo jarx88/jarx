@@ -14,3 +14,7 @@
   height: auto;
   width: 200px;
 }
+
+.author-image {
+  filter: drop-shadow(3px 3px 3px black);
+}
