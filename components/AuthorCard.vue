@@ -42,6 +42,13 @@
         <Phone />
         {{ siteMetadata.phone }}
       </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
+        <p />
+      </div>
+      <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
+        <p>Blog:</p>
+        <a href="https://blog.jarx.pl"><img href="../assets/icon/logo-black.svg" width="200" /></a>
+      </div>
     </div>
   </div>
 </template>
