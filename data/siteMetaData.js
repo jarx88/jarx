@@ -22,6 +22,7 @@ const siteMetadata = {
   twitter_user: "#",
   stackoverflow: "#",
   youtube: "#",
+  facebook: "https://www.facebook.com/jarekhart",
   linkedin: "#",
   phone: " 532-541-533",
 };
