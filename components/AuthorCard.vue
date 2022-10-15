@@ -45,7 +45,7 @@
       <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
         <p />
       </div>
-      <div class="my-2 text-gray-600 flex dark:text-blue-200 phone">
+      <div class="my-2 text-gray-600 flex dark:text-blue-200 blog">
         <p>Blog:</p><br />
         <a href="https://blog.jarx.pl"><blog /></a>
       </div>
