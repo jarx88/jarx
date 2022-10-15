@@ -7,7 +7,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/worker.svg"
           />
         </span>
         <h3
@@ -39,7 +39,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/worker.svg"
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
@@ -59,7 +59,7 @@
         >
           <img
             class="w-3 h-3 text-blue-600 dark:text-blue-400"
-            src="~assets/icon/academy.svg"
+            src="~assets/icon/worker.svg"
           />
         </span>
         <h3 class="mb-1 text-lg font-semibold text-gray-900 dark:text-white">
