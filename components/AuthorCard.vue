@@ -28,6 +28,7 @@
         >
           {{ siteMetadata.phone }}
         </a>
+      </div>
     </div>
 
     <div class="mx-7 hidden md:block">
