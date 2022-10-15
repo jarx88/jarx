@@ -15,7 +15,8 @@
 
 <script>
 import siteMetaInfo from "@/data/sitemetainfo";
-
+import VueTypedJs from "~/plugins/vue-typed-js";
+Vue.use(VueTypedJs)
 export default {
   data() {
     return {
