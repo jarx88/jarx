@@ -40,14 +40,15 @@
           >{{ siteMetadata.author }} - {{ siteMetadata.slogan }}</a
         >
       </div>
-      <!-- <div class="mb-8 text-sm text-gray-500 dark:text-gray-400">
+      <div class="flex mb-2 space-x-2 text-sm text-gray-500 dark:text-gray-400">
+        <div>Template </div>
         <a
           target="_blank"
           rel="noopener noreferrer"
           href="https://github.com/mdrathik/tailwind-nuxtjs-starter-blog"
-        ></a>
+        >tailwind</a>
       </div>
-      <BuyMeACoffee></BuyMeACoffee> -->
+      <!-- <BuyMeACoffee></BuyMeACoffee> -->
     </div>
   </footer>
 </template>
