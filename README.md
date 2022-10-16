@@ -1,9 +1,13 @@
-# NuxtJs Tailwind Blog
+# NuxtJs Tailwind Blog by Jarx
 
 This is a nuxtjs, Tailwind CSS blogging template. Its supported Markdown for blog
-![Drag Racing](thumbnail.png)
 
-# Examples/Demo
+<img src="https://jarx88.duckdns.org/BOCa2/XEGOYEsi84.gif/raw" ><br>
+
+
+## Thes is `fork` from [nuxtjs-tailwind-blog](https://github.com/mdrathik/nuxtjs-tailwind-blog)
+
+# Orginal Examples/Demo
 
 - [Demo blog - This repo](https://nuxt-tailwind-blog.netlify.app)
 
@@ -19,6 +23,9 @@ $ npm run dev
 ```
 
 For detailed explanation on how things work, check out the [documentation](https://nuxtjs.org).
+
+
+Caffee to autor template
 
 <a href="https://www.buymeacoffee.com/mdrathik" target="_blank"
     ><img
